@@ -1,0 +1,25 @@
+{
+  "name": "lww-element-set",
+  "version": "1.0.0",
+  "description": "A brief implementation of LWW Element Sets in javascript",
+  "main": "main.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josh-wambua/lww-element-set.git"
+  },
+  "keywords": [
+    "LWW",
+    "Element",
+    "Set",
+    "CRDTs"
+  ],
+  "author": "Joseph W. Joshua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josh-wambua/lww-element-set/issues"
+  },
+  "homepage": "https://github.com/josh-wambua/lww-element-set#readme"
+}

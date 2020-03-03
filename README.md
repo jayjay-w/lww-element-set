@@ -2,6 +2,11 @@
 
 This is a simple LWW Element Set implementation in javascript.
 
+# Initialization
+To initialize everything, ensure you have node.js installed. cd into the project folder and run:
+
+`npm install`
+
 # Testing
 
 To test the library, run this command:
